@@ -9,7 +9,7 @@ Tiện ích chỉ đứng ngoài đọc luồng bản sao của request và resp
 Sao chép link repository GitHub dưới đây:
 
 ```text
-https://github.com/cleverpigeb/SillyTavern-Stream-Helper
+https://github.com/Despolca/Tavern-Stream-Helper
 ```
 
 Sau đó hoàn tất cài đặt trong SillyTavern:
